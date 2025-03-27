@@ -1,0 +1,29 @@
+name: Lightning Talk Proposal
+description: Suggestion for a lightning talk
+title: "Lightning Talk Proposal #{your title here}"
+labels: [Lightning Talk]
+body:
+  - type: input
+    attributes:
+      label: Your name
+      placeholder: "Alonzo Church"
+
+  - type: input
+    attributes:
+      label: Your GitHub
+      placeholder: "https://github.com/alonzo_church"
+
+  - type: input
+    attributes:
+      label: Your Social Link
+      placeholder: "https://bsky.app/profile/alonzo_church.bsky.social"
+
+  - type: input
+    attributes:
+      label: "Title of your presentation"
+      placeholder: "`alias`, `import`, `require`, `use` in Elixir"
+
+  - type: textarea
+    attributes:
+      label: Description
+      placeholder: "On how to differentiate them"

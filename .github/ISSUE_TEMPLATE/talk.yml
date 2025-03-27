@@ -1,0 +1,29 @@
+name: Talk Proposal
+description: Suggestion for a talk
+title: "Talk Proposal #{your title here}"
+labels: [Talk]
+body:
+  - type: input
+    attributes:
+      label: Your name
+      placeholder: "Alonzo Church"
+
+  - type: input
+    attributes:
+      label: Your GitHub
+      placeholder: "https://github.com/alonzo_church"
+
+  - type: input
+    attributes:
+      label: Your Social Link
+      placeholder: "https://bsky.app/profile/alonzo_church.bsky.social"
+
+  - type: input
+    attributes:
+      label: "Title of your presentation"
+      placeholder: "THE CALCULI OF LAMBDA-CONVERSION"
+
+  - type: textarea
+    attributes:
+      label: Description
+      placeholder: "Why Lambdas are so, so great—and way more elegant than those darn turing machines, by the way."

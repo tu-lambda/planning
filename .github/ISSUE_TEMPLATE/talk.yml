@@ -10,13 +10,8 @@ body:
 
   - type: input
     attributes:
-      label: Your GitHub
-      placeholder: "https://github.com/alonzo_church (optional)"
-
-  - type: input
-    attributes:
-      label: Your Social Link
-      placeholder: "https://bsky.app/profile/alonzo_church.bsky.social (optional)"
+      label: Your GitHub/Social Link/personal Website
+      placeholder: "https://github.com/alonzo_church | https://bsky.app/profile/alonzo_church.bsky.social | alonzochurch.com (optional)"
 
   - type: input
     attributes:

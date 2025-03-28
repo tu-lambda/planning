@@ -8,7 +8,7 @@ body:
       label: Your name
       placeholder: "Alonzo"
 
-  - type: input
+  - type: textarea
     attributes:
       label: Your GitHub/Social Link/personal Website
       placeholder: "https://github.com/alonzo_church | https://bsky.app/profile/alonzo_church.bsky.social | alonzochurch.com (optional)"

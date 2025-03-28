@@ -1,22 +1,22 @@
 name: Talk Proposal
 description: Suggestion for a talk
-title: "Talk Proposal #{your title here}"
+title: "Talk Proposal: \"#{your title here}\""
 labels: [Talk]
 body:
   - type: input
     attributes:
       label: Your name
-      placeholder: "Alonzo Church"
+      placeholder: "Alonzo"
 
   - type: input
     attributes:
       label: Your GitHub
-      placeholder: "https://github.com/alonzo_church"
+      placeholder: "https://github.com/alonzo_church (optional)"
 
   - type: input
     attributes:
       label: Your Social Link
-      placeholder: "https://bsky.app/profile/alonzo_church.bsky.social"
+      placeholder: "https://bsky.app/profile/alonzo_church.bsky.social (optional)"
 
   - type: input
     attributes:
